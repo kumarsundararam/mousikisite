@@ -1,0 +1,231 @@
+{
+  "common": {
+    "getStarted": "Commencer",
+    "learnMore": "En savoir plus",
+    "contactUs": "Nous contacter",
+    "viewPricing": "Voir les tarifs",
+    "startFreeTrial": "Essai gratuit",
+    "scheduleDemo": "Planifier une démo"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "solutions": "Solutions",
+    "forTeachers": "Pour les Professeurs",
+    "forSchools": "Pour les Écoles",
+    "forStudents": "Pour les Étudiants",
+    "forParents": "Pour les Parents",
+    "pricing": "Tarifs",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Bienvenue chez Mousiki ??",
+      "subtitle": "La Plateforme Complète de Gestion de l'Éducation Musicale",
+      "description": "Une plateforme pour les professeurs, les étudiants et les parents. Cours en ligne, hors ligne et hybrides. Conçue spécifiquement pour l'éducation musicale."
+    },
+    "whyMouseki": {
+      "title": "Pourquoi Mousiki? ?",
+      "allInOne": {
+        "title": "Plateforme Tout-en-Un",
+        "desc": "Une plateforme pour les professeurs, les étudiants et les parents. Plus besoin de jongler entre WhatsApp, Excel, Google Meet et les emails."
+      },
+      "hybridLearning": {
+        "title": "Apprentissage Hybride",
+        "desc": "Fonctionne parfaitement pour les cours en ligne, hors ligne et hybrides. Adaptez-vous à n'importe quel mode d'enseignement sans effort."
+      },
+      "musicFocused": {
+        "title": "Axé sur la Musique",
+        "desc": "Construit spécifiquement pour l'éducation musicale. Pas un LMS générique adapté à la musique."
+      },
+      "saveTime": {
+        "title": "Gagnez du Temps",
+        "desc": "Automatisez les tâches administratives, les paiements, les rappels et la communication. Concentrez-vous sur l'enseignement."
+      },
+      "scale": {
+        "title": "Évoluez Facilement",
+        "desc": "D'1 professeur à plus de 100 instructeurs. Grandit avec votre entreprise musicale."
+      },
+      "affordable": {
+        "title": "Abordable",
+        "desc": "Économisez sur plusieurs abonnements. Tout ce dont vous avez besoin en un seul endroit."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Transformer Votre Enseignement Musical? ??",
+      "description": "Rejoignez des centaines de professeurs de musique et d'écoles qui utilisent déjà Mousiki"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "À Propos de Mousiki ??",
+      "subtitle": "Autonomiser l'éducation musicale grâce à la technologie"
+    },
+    "ourStory": {
+      "title": "Notre Histoire ??",
+      "para1": "Mousiki est né d'une simple observation : les professeurs de musique passent plus de temps à gérer des tâches administratives qu'à enseigner la musique. Entre jongler avec les groupes WhatsApp, les feuilles Excel, le suivi des paiements et les liens Google Meet, la joie d'enseigner se perd dans le chaos.",
+      "para2": "Nous avons parlé à des centaines de professeurs de musique et avons découvert qu'ils étaient tous confrontés aux mêmes défis - aucune visibilité sur les progrès des étudiants, des paiements manqués, une surcharge de communication et des difficultés à développer leur pratique d'enseignement.",
+      "para3": "C'est alors que nous avons décidé de créer Mousiki - une plateforme spécialement conçue pour l'éducation musicale. Pas un LMS générique adapté à la musique, mais un système construit de A à Z en comprenant les besoins uniques des professeurs de musique, des écoles, des étudiants et des parents.",
+      "para4": "Aujourd'hui, Mousiki aide des centaines de professeurs de musique et d'écoles à gérer des milliers d'étudiants, ramenant transparence, efficacité et joie dans l'éducation musicale."
+    },
+    "mission": {
+      "title": "Notre Mission ??",
+      "text": "Autonomiser les éducateurs musicaux avec une technologie qui simplifie les opérations, améliore les résultats d'apprentissage et apporte de la transparence à chaque partie prenante du parcours d'éducation musicale."
+    },
+    "values": {
+      "title": "Nos Valeurs ??",
+      "musicEducation": {
+        "title": "Focus sur l'Éducation Musicale",
+        "desc": "Nous sommes concentrés sur la résolution de problèmes spécifiques à l'enseignement et à l'apprentissage de la musique."
+      },
+      "simplicity": {
+        "title": "Simplicité d'Abord",
+        "desc": "La technologie devrait faciliter la vie, pas la compliquer. Nous concevons pour la simplicité."
+      },
+      "transparency": {
+        "title": "Transparence",
+        "desc": "Une communication claire entre les enseignants, les étudiants et les parents crée la confiance et de meilleurs résultats."
+      },
+      "improvement": {
+        "title": "Amélioration Continue",
+        "desc": "Nous écoutons nos utilisateurs et évoluons constamment en fonction de leurs commentaires et besoins."
+      },
+      "quality": {
+        "title": "Éducation de Qualité",
+        "desc": "Nous croyons que chaque étudiant mérite un accès à une éducation musicale de qualité avec un suivi approprié et un soutien."
+      },
+      "empowerment": {
+        "title": "Autonomisation",
+        "desc": "Nous autonomisons les enseignants pour qu'ils se concentrent sur ce qu'ils font le mieux - enseigner et inspirer les étudiants."
+      }
+    },
+    "team": {
+      "title": "Notre Équipe ??????????",
+      "para1": "Nous sommes une équipe passionnée de musiciens, d'éducateurs et de technologues qui croient au pouvoir de l'éducation musicale. Nos parcours diversifiés en musique, enseignement et développement logiciel nous permettent de créer un produit qui comprend vraiment vos besoins.",
+      "para2": "Chaque fonctionnalité de Mousiki est construite avec les apports de vrais professeurs de musique et testée dans de vraies salles de classe. Nous ne construisons pas seulement un logiciel - nous construisons un meilleur avenir pour l'éducation musicale."
+    },
+    "cta": {
+      "title": "Vous Voulez en Savoir Plus? ??",
+      "description": "Nous serions ravis de vous entendre et de vous montrer comment Mousiki peut transformer votre enseignement musical"
+    }
+  },
+  "forTeachers": {
+    "hero": {
+      "title": "Pour les Professeurs de Musique ?????",
+      "subtitle": "Arrêtez de jongler entre WhatsApp, Excel, Google Meet et les emails. Gérez tout en un seul endroit."
+    },
+    "problems": {
+      "title": "Problèmes Quotidiens ??",
+      "manual": {
+        "title": "Gestion Manuelle des Étudiants",
+        "desc": "Suivi de plusieurs étudiants dans différents carnets et feuilles de calcul"
+      },
+      "payments": {
+        "title": "Paiements Manqués",
+        "desc": "Courir après les paiements et oublier les relances"
+      },
+      "history": {
+        "title": "Pas d'Historique de Cours",
+        "desc": "Difficulté à se souvenir de ce qui a été enseigné lors des sessions précédentes"
+      },
+      "progress": {
+        "title": "Suivi des Progrès",
+        "desc": "Difficile de suivre et de montrer les progrès des étudiants au fil du temps"
+      },
+      "communication": {
+        "title": "Chaos de Communication",
+        "desc": "Passer d'un groupe WhatsApp aux emails et aux appels"
+      },
+      "scheduling": {
+        "title": "Conflits de Planning",
+        "desc": "Doubles réservations et confusion sur les horaires de cours"
+      }
+    },
+    "solutions": {
+      "title": "Comment Mousiki Résout Cela ?"
+    },
+    "testimonials": {
+      "title": "Ce que Disent les Professeurs ??"
+    },
+    "cta": {
+      "title": "Prêt à Simplifier Votre Enseignement? ??",
+      "description": "Rejoignez des centaines de professeurs de musique qui ont pris le contrôle de leur activité d'enseignement"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-Nous ??",
+      "subtitle": "Nous aimerions avoir de vos nouvelles. Parlons de comment Mousiki peut vous aider!"
+    },
+    "location": "Localisation",
+    "phone": "Téléphone",
+    "email": "Email",
+    "form": {
+      "title": "Envoyez-nous un Message ??",
+      "name": "Nom",
+      "namePlaceholder": "Votre nom complet",
+      "email": "Email",
+      "emailPlaceholder": "votre.email@exemple.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "De quoi s'agit-il?",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous plus de votre demande...",
+      "send": "Envoyer le Message ??"
+    },
+    "hours": {
+      "title": "Heures d'Ouverture ?",
+      "weekdays": "Lundi - Vendredi",
+      "saturday": "Samedi",
+      "sunday": "Dimanche",
+      "closed": "Fermé"
+    },
+    "cta": {
+      "title": "Préférez un Appel Rapide? ??",
+      "description": "Planifiez une démo et voyez Mousiki en action"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "Tarification Simple et Transparente ??",
+      "subtitle": "Choisissez le plan qui convient à vos besoins. Évoluez à votre rythme."
+    },
+    "solo": {
+      "title": "Professeur Solo",
+      "price": "19€",
+      "period": "/mois",
+      "description": "Parfait pour les professeurs de musique individuels",
+      "cta": "Essai Gratuit"
+    },
+    "professional": {
+      "title": "Professionnel",
+      "price": "49€",
+      "period": "/mois",
+      "description": "Pour les professeurs de musique en croissance",
+      "badge": "POPULAIRE",
+      "cta": "Essai Gratuit"
+    },
+    "school": {
+      "title": "École de Musique",
+      "price": "199€",
+      "period": "/mois",
+      "description": "Pour les académies et écoles de musique",
+      "cta": "Planifier une Démo"
+    },
+    "enterprise": {
+      "title": "Entreprise",
+      "description": "Pour les grandes organisations musicales avec des besoins personnalisés",
+      "cta": "Contacter les Ventes"
+    },
+    "comparison": {
+      "title": "Comparaison des Fonctionnalités ??"
+    },
+    "faq": {
+      "title": "Questions Fréquentes ?"
+    },
+    "cta": {
+      "title": "Prêt à Commencer? ??",
+      "description": "Commencez votre essai gratuit de 14 jours aujourd'hui. Aucune carte de crédit requise.",
+      "button": "Commencer l'Essai Gratuit"
+    }
+  }
+}

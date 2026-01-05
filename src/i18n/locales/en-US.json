@@ -1,0 +1,433 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "viewPricing": "View Pricing",
+    "startFreeTrial": "Start Free Trial",
+    "scheduleDemo": "Schedule a Demo"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "forTeachers": "For Teachers",
+    "forSchools": "For Schools",
+    "forStudents": "For Students",
+    "forParents": "For Parents",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Mousiki ??",
+      "subtitle": "The Complete Music Education Management Platform",
+      "description": "One platform for teachers, students and parents. Online, offline and hybrid classes. Built specifically for music education."
+    },
+    "whyMouseki": {
+      "title": "Why Mousiki? ?",
+      "allInOne": {
+        "title": "All-in-One Platform",
+        "desc": "One platform for teachers, students & parents. No more switching between WhatsApp, Excel, Google Meet, and email."
+      },
+      "hybridLearning": {
+        "title": "Hybrid Learning",
+        "desc": "Works seamlessly for online, offline & hybrid classes. Adapt to any teaching mode effortlessly."
+      },
+      "musicFocused": {
+        "title": "Music-Focused",
+        "desc": "Built specifically for music education. Not a generic LMS adapted for music."
+      },
+      "saveTime": {
+        "title": "Save Time & Effort",
+        "desc": "Automate admin tasks, payments, reminders, and communication. Focus on teaching."
+      },
+      "scale": {
+        "title": "Scale Easily",
+        "desc": "From 1 teacher to 100+ instructors. Grows with your music business."
+      },
+      "affordable": {
+        "title": "Affordable",
+        "desc": "Save money on multiple subscriptions. Everything you need in one place."
+      }
+    },
+    "forTeachers": {
+      "title": "For Music Teachers",
+      "subtitle": "Solo & Freelance Teachers",
+      "features": {
+        "studentManagement": {
+          "title": "Student Management",
+          "desc": "Add & manage students with profiles, track instrument, level, and goals"
+        },
+        "lessonScheduling": {
+          "title": "Lesson Scheduling",
+          "desc": "Create recurring & one-off lessons. Avoid schedule conflicts"
+        },
+        "onlineClasses": {
+          "title": "Online Classes",
+          "desc": "Conduct live online lessons. Share recordings & notes"
+        },
+        "progressTracking": {
+          "title": "Progress Tracking",
+          "desc": "Track skills, grades, milestones. Performance history per student"
+        },
+        "practiceAssignments": {
+          "title": "Practice Assignments",
+          "desc": "Share exercises, PDFs, audio/video materials"
+        },
+        "paymentsInvoicing": {
+          "title": "Payments & Invoicing",
+          "desc": "Generate invoices. Track paid/pending fees"
+        }
+      }
+    },
+    "forSchools": {
+      "title": "For Music Schools & Academies",
+      "subtitle": "Multi-Teacher Management & Scaling",
+      "features": {
+        "multiTeacher": {
+          "title": "Multi-Teacher Management",
+          "desc": "Assign teachers to classes. Role-based access control"
+        },
+        "batchScheduling": {
+          "title": "Batch & Class Scheduling",
+          "desc": "Group lessons by level/instrument across branches"
+        },
+        "centralDatabase": {
+          "title": "Central Student Database",
+          "desc": "One system across all branches and locations"
+        },
+        "feeManagement": {
+          "title": "Fee Management",
+          "desc": "Bulk invoicing. Auto reminders. Revenue tracking"
+        },
+        "performanceRecitals": {
+          "title": "Performance & Recitals",
+          "desc": "Manage exams, recitals, and evaluations"
+        },
+        "academyAnalytics": {
+          "title": "Academy Analytics",
+          "desc": "Revenue trends. Student retention insights"
+        }
+      }
+    },
+    "forStudents": {
+      "title": "For Students",
+      "subtitle": "Your Music Learning Journey",
+      "features": {
+        "lessonCalendar": {
+          "title": "Lesson Calendar",
+          "desc": "View upcoming & past lessons at a glance"
+        },
+        "practiceMaterials": {
+          "title": "Practice Materials",
+          "desc": "Access notes, videos, and recordings anytime"
+        },
+        "progressDashboard": {
+          "title": "Progress Dashboard",
+          "desc": "See your improvement over time with clear metrics"
+        },
+        "assignments": {
+          "title": "Assignments",
+          "desc": "Submit practice recordings for teacher feedback"
+        }
+      }
+    },
+    "forParents": {
+      "title": "For Parents",
+      "subtitle": "Track Your Child's Music Journey",
+      "features": {
+        "progressTracking": {
+          "title": "Progress Tracking",
+          "desc": "View attendance & performance in real-time"
+        },
+        "classSchedule": {
+          "title": "Class Schedule",
+          "desc": "Know exactly when lessons happen"
+        },
+        "teacherFeedback": {
+          "title": "Teacher Feedback",
+          "desc": "Receive regular updates and insights"
+        },
+        "feeInvoices": {
+          "title": "Fee & Invoices",
+          "desc": "Transparent payment history and reminders"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Music Teaching? ??",
+      "description": "Join hundreds of music teachers and schools already using Mousiki"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Mousiki ??",
+      "subtitle": "Empowering music education through technology"
+    },
+    "ourStory": {
+      "title": "Our Story ??",
+      "para1": "Mousiki was born from a simple observation: music teachers spend more time managing admin tasks than actually teaching music. Between juggling WhatsApp groups, Excel spreadsheets, payment tracking, and Google Meet links, the joy of teaching gets lost in the chaos.",
+      "para2": "We talked to hundreds of music teachers and discovered they were all facing the same challenges - no visibility into student progress, missed payments, communication overload, and difficulty scaling their teaching practice.",
+      "para3": "That's when we decided to build Mousiki - a platform specifically designed for music education. Not a generic LMS adapted for music, but a system built from the ground up understanding the unique needs of music teachers, schools, students, and parents.",
+      "para4": "Today, Mousiki helps hundreds of music teachers and schools manage thousands of students, bringing transparency, efficiency, and joy back to music education."
+    },
+    "mission": {
+      "title": "Our Mission ??",
+      "text": "To empower music educators with technology that simplifies operations, enhances learning outcomes, and brings transparency to every stakeholder in the music education journey."
+    },
+    "values": {
+      "title": "Our Values ??",
+      "musicEducation": {
+        "title": "Focus on Music Education",
+        "desc": "We're laser-focused on solving problems specific to music teaching and learning."
+      },
+      "simplicity": {
+        "title": "Simplicity First",
+        "desc": "Technology should make life easier, not more complicated. We design for simplicity."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "desc": "Clear communication between teachers, students, and parents builds trust and better outcomes."
+      },
+      "improvement": {
+        "title": "Continuous Improvement",
+        "desc": "We listen to our users and constantly evolve based on their feedback and needs."
+      },
+      "quality": {
+        "title": "Quality Education",
+        "desc": "We believe every student deserves access to quality music education with proper tracking and support."
+      },
+      "empowerment": {
+        "title": "Empowerment",
+        "desc": "We empower teachers to focus on what they do best - teaching and inspiring students."
+      }
+    },
+    "whyChoose": {
+      "title": "Why Choose Mousiki? ??",
+      "builtForMusic": {
+        "title": "Built for Music",
+        "desc": "Unlike generic platforms, Mousiki is designed specifically for music education with features that matter to music teachers."
+      },
+      "allInOne": {
+        "title": "All-in-One Solution",
+        "desc": "Stop paying for multiple subscriptions. Everything you need is in one platform."
+      },
+      "worksYourWay": {
+        "title": "Works Your Way",
+        "desc": "Whether you teach online, offline, or both - Mousiki adapts to your teaching style."
+      },
+      "scales": {
+        "title": "Scales With You",
+        "desc": "From solo teacher to multi-branch academy, Mousiki grows with your business."
+      },
+      "easyToUse": {
+        "title": "Easy to Use",
+        "desc": "No technical knowledge required. If you can use WhatsApp, you can use Mousiki."
+      },
+      "greatSupport": {
+        "title": "Great Support",
+        "desc": "We're here to help. Our support team understands music education and is always ready to assist."
+      }
+    },
+    "numbers": {
+      "title": "Mousiki in Numbers ??",
+      "teachers": "Music Teachers",
+      "schools": "Music Schools",
+      "students": "Active Students",
+      "lessons": "Lessons Conducted"
+    },
+    "team": {
+      "title": "Our Team ??????????",
+      "para1": "We're a passionate team of musicians, educators, and technologists who believe in the power of music education. Our diverse backgrounds in music, teaching, and software development allow us to build a product that truly understands your needs.",
+      "para2": "Every feature in Mousiki is built with input from real music teachers and tested in actual classrooms. We're not just building software - we're building a better future for music education."
+    },
+    "cta": {
+      "title": "Want to Learn More? ??",
+      "description": "We'd love to hear from you and show you how Mousiki can transform your music teaching"
+    }
+  },
+  "forTeachers": {
+    "hero": {
+      "title": "For Music Teachers ?????",
+      "subtitle": "Stop juggling WhatsApp, Excel, Google Meet, and email. Manage everything in one place."
+    },
+    "problems": {
+      "title": "Problems You Face Daily ??",
+      "manual": {
+        "title": "Manual Student Management",
+        "desc": "Tracking multiple students across different notebooks and spreadsheets"
+      },
+      "payments": {
+        "title": "Missed Payments",
+        "desc": "Chasing payments and forgetting follow-ups"
+      },
+      "history": {
+        "title": "No Lesson History",
+        "desc": "Struggling to remember what was taught in previous sessions"
+      },
+      "progress": {
+        "title": "Progress Tracking",
+        "desc": "Difficult to track and show student progress over time"
+      },
+      "communication": {
+        "title": "Communication Chaos",
+        "desc": "Switching between WhatsApp groups, emails, and calls"
+      },
+      "scheduling": {
+        "title": "Scheduling Conflicts",
+        "desc": "Double bookings and confusion about lesson times"
+      }
+    },
+    "solutions": {
+      "title": "How Mousiki Solves This ?"
+    },
+    "testimonials": {
+      "title": "What Teachers Say ??"
+    },
+    "cta": {
+      "title": "Ready to Simplify Your Teaching? ??",
+      "description": "Join hundreds of music teachers who've taken control of their teaching business"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch ??",
+      "subtitle": "We'd love to hear from you. Let's talk about how Mousiki can help!"
+    },
+    "location": "Location",
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "title": "Send us a Message ??",
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "your.email@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us more about your inquiry...",
+      "send": "Send Message ??",
+      "successMessage": "Thank you for contacting us! We will get back to you soon."
+    },
+    "hours": {
+      "title": "Business Hours ?",
+      "weekdays": "Monday - Friday",
+      "weekdaysTime": "9:00 AM - 8:00 PM",
+      "saturday": "Saturday",
+      "saturdayTime": "10:00 AM - 6:00 PM",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    },
+    "contactInfo": {
+      "address1": "123 Music Street",
+      "address2": "Suite 456",
+      "address3": "Music City, MC 12345",
+      "mainPhone": "(555) 123-4567",
+      "supportPhone": "(555) 987-6543",
+      "phoneHours": "Mon-Fri: 9AM - 6PM",
+      "infoEmail": "info@mousiki.com",
+      "supportEmail": "support@mousiki.com",
+      "salesEmail": "admissions@mousiki.com"
+    },
+    "cta": {
+      "title": "Prefer a Quick Call? ??",
+      "description": "Schedule a demo and see Mousiki in action"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "Simple, Transparent Pricing ??",
+      "subtitle": "Choose the plan that fits your needs. Scale as you grow."
+    },
+    "solo": {
+      "title": "Solo Teacher",
+      "price": "$19",
+      "period": "/mo",
+      "description": "Perfect for individual music teachers",
+      "cta": "Start Free Trial",
+      "features": {
+        "students": "Up to 30 students",
+        "management": "Student management",
+        "scheduling": "Lesson scheduling",
+        "online": "Online classes",
+        "attendance": "Attendance tracking",
+        "progress": "Progress tracking",
+        "payments": "Payments & invoicing",
+        "assignments": "Practice assignments",
+        "communication": "Parent communication"
+      }
+    },
+    "professional": {
+      "title": "Professional",
+      "price": "$49",
+      "period": "/mo",
+      "description": "For growing music teachers",
+      "badge": "POPULAR",
+      "cta": "Start Free Trial",
+      "features": {
+        "students": "Up to 100 students",
+        "soloFeatures": "All Solo features",
+        "analytics": "Advanced analytics",
+        "branding": "Custom branding",
+        "bulk": "Bulk operations",
+        "support": "Priority support",
+        "api": "API access"
+      }
+    },
+    "school": {
+      "title": "Music School",
+      "price": "$199",
+      "period": "/mo",
+      "description": "For music academies & schools",
+      "cta": "Schedule Demo",
+      "features": {
+        "students": "Unlimited students",
+        "multiTeacher": "Multi-teacher management",
+        "roleAccess": "Role-based access",
+        "batchScheduling": "Batch scheduling",
+        "multiBranch": "Multi-branch support",
+        "analytics": "Academy analytics",
+        "performances": "Performance & recitals",
+        "bulkInvoicing": "Bulk invoicing",
+        "support": "Dedicated support"
+      }
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "description": "For large music organizations with custom needs",
+      "cta": "Contact Sales"
+    },
+    "comparison": {
+      "title": "Feature Comparison ??",
+      "feature": "Feature",
+      "students": "Number of Students",
+      "teachers": "Teachers",
+      "onlineClasses": "Online Classes",
+      "progressTracking": "Progress Tracking",
+      "payments": "Payments & Invoicing",
+      "multiBranch": "Multi-Branch Support",
+      "analytics": "Analytics",
+      "support": "Support",
+      "upTo30": "Up to 30",
+      "upTo100": "Up to 100",
+      "unlimited": "Unlimited",
+      "basic": "Basic",
+      "advanced": "Advanced",
+      "academyLevel": "Academy-level",
+      "email": "Email",
+      "priority": "Priority",
+      "dedicated": "Dedicated",
+      "bulk": "Bulk"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions ?"
+    },
+    "cta": {
+      "title": "Ready to Get Started? ??",
+      "description": "Start your 14-day free trial today. No credit card required.",
+      "button": "Start Free Trial Now"
+    }
+  }
+}
